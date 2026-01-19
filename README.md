@@ -13,7 +13,7 @@ and **full stack development skills** over a structured training period.
 - **Organization:** Cognizant
 - **Program:** Digital Nurture 4.0 – Deep Skilling
 - **Track:** Java Full Stack Engineering (FSE)
-- **Duration:** ~4 Months
+- **Duration:** ~3 Months
 - **Mode:** Self-learning + SME Connect Sessions + Hands-on Assignments
 
 ---
